@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions, introductions, and conversations
+    url: https://github.com/obsidian-legion/community/discussions
+    about: Meet other builders, ask questions, or share your work.
